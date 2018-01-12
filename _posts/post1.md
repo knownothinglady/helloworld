@@ -1,1 +1,4 @@
+---
+layout: posts
+---
 post1
