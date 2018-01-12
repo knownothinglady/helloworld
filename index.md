@@ -7,4 +7,5 @@ title: Blog Page
 		<li><a href="{{ post.url }}">{{ post.title }}</a></li>
 	{% endfor %}
 </ul>
-index page
+
+index2
